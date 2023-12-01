@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Xavierete
+- 👀 I’m interested in iOS development.
+- 🌱 I’m currently learning a lot of languajes, like  java, html, Xcode, etc.
+- 💞️ I’m looking to collaborate on any company.
+- 📫 How to reach me: via email.
