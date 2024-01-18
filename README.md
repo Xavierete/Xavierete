@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xavier Moreno =====================================================================================================================================  💼 Actualmente estoy enfocado en el desarrollo de aplicaciones para iOS. 🌱 Estoy en constante aprendizaje de diversos lenguajes, incluyendo Java, HTML, y Xcode, entre otros.  * 🌍  I'm based in Spain * ✉️  You can contact me at [xaviermorenonavarro@gmail.com](mailto:xaviermorenonavarro@gmail.com) * 🧠  I'm learning Java, HTML, y Xcode. * 🤝  I'm open to collaborating on everything. Si tienes alguna propuesta de colaboración o simplemente quieres conectarte, no dudes en contactarme. ¡Vamos a crear cosas increíbles juntos! 🚀 * ⚡  Es un secreto, todo lo que hablemos.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Xavier Moreno
+
+💼 Actualmente estoy enfocado en el desarrollo de aplicaciones para iOS.
+🌱 Estoy en constante aprendizaje de diversos lenguajes, incluyendo Java, HTML, y Xcode, entre otros.
+🌍  I'm based in Spain, Barcelona.
+✉️  You can contact me at [xaviermorenonavarro@gmail.com](mailto:xaviermorenonavarro@gmail.com)
+🧠  I'm learning Java, HTML, y Xcode.
+🤝  I'm open to collaborating on everything. Si tienes alguna propuesta de colaboración o simplemente quieres conectarte, no dudes en contactarme. ¡Vamos a crear cosas increíbles juntos! 🚀
 
 <a href="https://www.x.com/PruebasXaps" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/PruebasXaps?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
