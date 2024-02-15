@@ -12,13 +12,14 @@
 #### Habilidades Técnicas
 - **Lenguajes de Programación:**
   - Swift
-  - JavaScript
-  - Java
+  - JavaScript & Java
+  - Html
+  - Minecraft commands
+  - MySQL
 - **Herramientas y Tecnologías:**
   - Xcode
-  - Git
-  - MySQL
-
+  - iWork
+ 
 #### Redes Sociales
 <p align="left">
   <a href="https://discord.com/users/xavierete" target="_blank" rel="noreferrer">
