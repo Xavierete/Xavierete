@@ -20,11 +20,23 @@
   - MySQL
 
 #### Redes Sociales
-- **Discord:** [![Discord](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)](https://discord.com/users/xavierete)
-- **GitHub:** [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/xavierete)
-- **Instagram:** [![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/xavieretemorenete)
-- **Twitter:** [![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.x.com/PruebasXaps)
-- **Threads:** [![Threads](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg)](https://www.threads.net/@xavieretemorenete)
+<p align="left">
+  <a href="https://discord.com/users/xavierete" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://www.github.com/xavierete" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="http://www.instagram.com/xavieretemorenete" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.x.com/PruebasXaps" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
+  </a>
+  <a href="https://www.threads.net/@xavieretemorenete" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
+  </a>
+</p>
 
 ### 🌟 Contacto y Colaboración
 - Si tienes propuestas de colaboración o simplemente quieres conectar, ¡no dudes en ponerte en contacto conmigo! ¡Creemos cosas increíbles juntos! 🚀
