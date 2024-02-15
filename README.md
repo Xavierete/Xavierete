@@ -7,6 +7,8 @@
 ## 🚀 Acerca de mí:
 - Actualmente centrado en el desarrollo de aplicaciones para iOS.
 - Constantemente aprendiendo varios lenguajes, incluyendo Java, HTML y Xcode, entre otros.
+- Creando varias mini Strat-Ups para tener una buena base.
+- Aprendiendo de crear Start-Ups en redes sociales. @tustechnews @carsformlords
 
 ## 🌐 Habilidades:
 ### Hard skills
