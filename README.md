@@ -1,8 +1,8 @@
 ### 🌟 Sobre mí
-- **Nombre:** Xavier Moreno
-- **Ubicación:** España
+- **Nombre:** Xavier Moreno.
+- **Ubicación:** España, Barcelona.
 - **Correo electrónico:** [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
-- **Habilidades destacadas:** iWork, hablar en público, dominio de 3 idiomas
+- **Habilidades destacadas:** iWork, hablar en público, Xcode, dominio de 3 idiomas.
 
 ### 🚀 Acerca de mí
 - Actualmente centrado en el desarrollo de aplicaciones para iOS.
@@ -16,9 +16,6 @@
   - Html
   - Minecraft commands
   - MySQL
-- **Herramientas y Tecnologías:**
-  - Xcode
-  - iWork
  
 #### 🏦 Redes Sociales
 <p align="left">
