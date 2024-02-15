@@ -5,8 +5,9 @@
 
 ## 🚀 About Me
 🌐 **¡Soy de España!** Fascinated by the Apple ecosystem, I am actively exploring iOS development.
-✉️ **You can contact me...** at [xaviermorenonavarro@gmail.com](mailto:xaviermorenonavarro@gmail.com)
+✉️ **You can contact me...** at [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
 🧠  **I'm learning...** Java, HTML & Xcode.
+🌟  **My best habilities...** iWork, talk in public, 3 languages.
 🤝  **Collaborating.** If you have any collaboration proposals or simply want to connect, do not hesitate to contact me. Let's create amazing things together! 🚀
 
 <a href="https://www.x.com/PruebasXaps" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/PruebasXaps?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
