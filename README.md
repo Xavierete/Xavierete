@@ -17,7 +17,7 @@
   - Minecraft commands
   - MySQL
  
-#### 🏦 Redes Sociales
+### 🏦 Redes Sociales
 <p align="left">
   <a href="https://discord.com/users/xavierete" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
