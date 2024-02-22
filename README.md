@@ -1,11 +1,13 @@
 ## 🌟 Sobre mí:
+
 - **Nombre:** Xavier Moreno.
-- **Ubicación:** España, Barcelona.
+- **Estoy en:** España, Barcelona.
 - **Correo electrónico:** [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
 
 **Ahora estoy estudiando en:** La Salle Gràcia, Desarrollo de aplicaciones multiplataforma.
 
 ## 🚀 Acerca de mí:
+
 - Actualmente centrado en el desarrollo de aplicaciones para iOS.
 - Constantemente aprendiendo varios lenguajes, incluyendo Java, HTML y Xcode, entre otros.
 - Creando varias mini Start-Ups para tener una buena base.
@@ -13,6 +15,7 @@
 
 ## 🌐 Habilidades:
 ### Hard skills
+
   - Swift
   - JavaScript & Java
   - Html
@@ -23,6 +26,7 @@
   - 3 idiomas diferentes
  
 ### Soft Skills
+
   - Trabajo colaborativo.
   - Buena oratoria.
   - Adaptabilidad.
@@ -31,6 +35,7 @@
   - Creatividad.
  
 ## 🏦 Redes Sociales:
+
 <p align="left">
   <a href="https://discord.com/users/xavierete" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
@@ -50,10 +55,12 @@
 </p>
 
 ## 🌟 Contacto y Colaboración:
+
 - Si tienes propuestas de colaboración o simplemente quieres conectar, ¡no dudes en ponerte en contacto conmigo! ¡Creemos cosas increíbles juntos! 🚀
 - Correo: [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
 
 ## 👨‍💻 Tecnologías:
+
 - **iOS:** [![iOS](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 - **Swift:** [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 - **Xcode:** [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
