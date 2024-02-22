@@ -2,7 +2,6 @@
 - **Nombre:** Xavier Moreno.
 - **Ubicación:** España, Barcelona.
 - **Correo electrónico:** [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
-- **Habilidades destacadas:** iWork, hablar en público, Xcode, dominio de 3 idiomas.
 
 **Ahora estoy estudiando en:** La Salle Gràcia, Desarrollo de aplicaciones multiplataforma.
 
@@ -20,6 +19,8 @@
   - Minecraft commands
   - MySQL
   - Dominio de iWork
+  - Hablar en público
+  - 3 idiomas diferentes
  
 ### Soft Skills
   - Trabajo colaborativo.
