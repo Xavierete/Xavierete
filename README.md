@@ -4,6 +4,8 @@
 - **Correo electrónico:** [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)
 - **Habilidades destacadas:** iWork, hablar en público, Xcode, dominio de 3 idiomas.
 
+**Ahora estoy estudiando en:** La Salle Gràcia, Desarrollo de aplicaciones multiplataforma.
+
 ## 🚀 Acerca de mí:
 - Actualmente centrado en el desarrollo de aplicaciones para iOS.
 - Constantemente aprendiendo varios lenguajes, incluyendo Java, HTML y Xcode, entre otros.
@@ -17,6 +19,7 @@
   - Html
   - Minecraft commands
   - MySQL
+  - Dominio de iWork
  
 ### Soft Skills
   - Trabajo colaborativo.
