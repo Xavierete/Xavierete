@@ -13,7 +13,14 @@ I believe in continuous learning and pushing the boundaries of what I can create
 
 ## Projects
 
-### SkillUp
+**SkillUp** is a cutting-edge iOS application designed to help users elevate their professional profiles by offering a range of courses, events, and subscription plans. Available from **iOS 18**, the app integrates seamlessly with **Apple Intelligence** to personalize the experience and boost your learning journey.
+
+## Features
+
+- **Diverse Courses**: Access a variety of courses in communication, creativity, productivity, leadership, and more.
+- **Events**: Stay up-to-date with industry events, workshops, and webinars to sharpen your skills.
+- **Subscription Plans**: Upgrade your experience with exclusive content, personalized recommendations, and enhanced learning tools.
+- **Apple Intelligence Integration**: Enjoy a customized experience with Apple’s AI, helping you identify relevant courses and events based on your profile.
 
 ## Get In Touch
 
