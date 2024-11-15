@@ -15,6 +15,11 @@
 - **Languages**:  
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB81C?style=flat&logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - **Tools**:  
   ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)  
@@ -34,6 +39,12 @@ A cutting-edge **iOS application** designed to help users elevate their professi
 - 🌍 **Events**: Workshops, webinars, and industry meetups.  
 - 🪙 **Subscriptions**: Exclusive resources and AI-driven recommendations.  
 - 🤖 **Apple Intelligence Integration**: Smart content discovery tailored to your interests.
+
+### 🎙️ **Weekly Gathering Podcast**
+A podcast focused on technology and innovation, featuring insightful discussions with industry experts.
+
+### 🚗 **CarsFromLords**
+A start-up focused on automotive content creation, achieving over 10 million views in total via RSS.
 
 ---
 
