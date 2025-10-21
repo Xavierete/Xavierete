@@ -40,9 +40,8 @@ A cutting-edge **iOS application** designed to help users elevate their professi
 - 🪙 **Subscriptions**: Exclusive resources and AI-driven recommendations.  
 - 🤖 **Apple Intelligence Integration**: Smart content discovery tailored to your interests.
 
-### 🎙️ **Weekly Gathering Podcast**
-A podcast focused on technology and innovation, featuring insightful discussions with industry experts.
-
+### 👨‍💻 **Enumence**
+A start-up focused on redesigning math education and an app for organizing and managing classes efficiently.
 ### 🚗 **CarsFromLords**
 A start-up focused on automotive content creation, achieving over 10 million views in total via RSS.
 
@@ -54,17 +53,6 @@ A start-up focused on automotive content creation, achieving over 10 million vie
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavierete&layout=compact&theme=radical)
 
 ---
-
-## 🔥 **Activity Graph**
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Xavierete&theme=react-dark&hide_border=true)](https://github.com/Xavierete)
-
----
-
-## 💡 **Fun Extras**
-
-### 👨‍🎨 **Visuals**
-![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ### 🌈 **Profile Stats**
 ![Profile Views](https://komarev.com/ghpvc/?username=Xavierete&color=brightgreen&style=flat-square)
