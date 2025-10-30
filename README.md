@@ -17,6 +17,7 @@
 - **ToDone:** A simple to-do app with the basics of SwiftUi and SwiftData, recently updated to Liquid Glass design.
 
 And more! Look inside my repositories.
+
 ---
 ## 🛠️ **My tech stack**
 - **Languages**: Specially Swift, but also: Python, Kotlin, MySQL, Java, Web, Php, Laravel...
