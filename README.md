@@ -1,6 +1,5 @@
-# 🌟 Xavier Moreno Navarro
-
-![Welcome Animation](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
+# Hello There!
+## Xavier Moreno Navarro
 
 👋 **Hi there!** I'm **Xavier Moreno Navarro**, an aspiring **iOS engineer** passionate about crafting **intuitive**, **user-friendly** applications. I’m currently delving deeper into **Swift Data** and **SwiftUI** to push the limits of app design.
 
