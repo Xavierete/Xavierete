@@ -19,16 +19,11 @@
 And more! Look inside my repositories.
 
 ---
+
 ## 🛠️ **My tech stack**
 - **Languages**: Specially Swift, but also: Python, Kotlin, MySQL, Java, Web, Php, Laravel...
 - **Tools**: Xcode, Git, iWork, Cursor, Figma, Notion & Craft, Visual Studio, Visual Studio Code, Rider, Kotlin Studio...
 - **Currently Learning**: Swift Data, Foundational Models Framework, Maths & Big Data
----
-
-## 📊 **Cool stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavierete&show_icons=true&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=Xavierete&color=brightgreen&style=flat-square)
 
 ---
 
@@ -39,3 +34,10 @@ Feel free to reach out for collaboration or a friendly chat!
 - 💼 **LinkedIn**: [Xavier Moreno Navarro](https://www.linkedin.com/in/yourprofile)  
 - 🖥️ **GitHub**: [Xavierete](https://github.com/Xavierete)
 - 🖥️ **X**: [XecutiveM](https://x.com/XecutiveM)
+
+---
+
+## 📊 **Cool stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavierete&show_icons=true&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=Xavierete&color=brightgreen&style=flat-square)
