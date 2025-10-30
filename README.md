@@ -12,24 +12,10 @@
 🎯 **Objective**: To innovate solutions that simplify and enrich daily experiences.
 
 ---
-
-## 🌐 **Projects**
-
-### 🛠️ **SkillUp**
-
-A cutting-edge **iOS application** designed to help users elevate their professional profiles by offering a range of courses, events, and subscription plans.  
-
-#### ✨ **Features**
-- 📚 **Diverse Courses**: Communication, productivity, leadership, creativity, and more.  
-- 🌍 **Events**: Workshops, webinars, and industry meetups.  
-- 🪙 **Subscriptions**: Exclusive resources and AI-driven recommendations.  
-- 🤖 **Apple Intelligence Integration**: Smart content discovery tailored to your interests.
-
-### 👨‍💻 **Enumence**
-A start-up focused on redesigning math education and an app for organizing and managing classes efficiently.
-### 🚗 **CarsFromLords**
-A start-up focused on automotive content creation, achieving over 10 million views in total via RSS.
-
+## 🛠️ **Tech Stack**
+- **Languages**: Specially Swift, but also: Python, Kotlin, MySQL, Java, Web, Php, Laravel...
+- **Tools**: Xcode, Git, iWork, Cursor, Figma, Notion & Craft, Visual Studio, Visual Studio Code, Rider, Kotlin Studio...
+- **Currently Learning**: Swift Data, Foundational Models Framework, Maths & Big Data
 ---
 
 ## 📊 **GitHub Stats**
@@ -45,4 +31,4 @@ Feel free to reach out for collaboration or a friendly chat!
 - 📧 **Email**: [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)  
 - 💼 **LinkedIn**: [Xavier Moreno Navarro](https://www.linkedin.com/in/yourprofile)  
 - 🖥️ **GitHub**: [Xavierete](https://github.com/Xavierete)
-- 🖥️ **X**: [XecutiveM][(https://x.com/XecutiveM)]
+- 🖥️ **X**: [XecutiveM](https://x.com/XecutiveM)
