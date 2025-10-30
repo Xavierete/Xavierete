@@ -35,10 +35,6 @@ A start-up focused on automotive content creation, achieving over 10 million vie
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavierete&show_icons=true&theme=radical)  
-
----
-
-### 🌈 **Profile Stats**
 ![Profile Views](https://komarev.com/ghpvc/?username=Xavierete&color=brightgreen&style=flat-square)
 
 ---
