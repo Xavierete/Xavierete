@@ -11,21 +11,6 @@
 🌱 Constantly learning to improve my craft and create apps that make a difference in users' lives.  
 🎯 **Objective**: To innovate solutions that simplify and enrich daily experiences.
 
-### ⚡ **Core Skills**
-- **Languages**:  
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB81C?style=flat&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- **Tools**:  
-  ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![Pages](https://img.shields.io/badge/Pages-FF9500?style=flat&logo=apple&logoColor=white)  
-
 ---
 
 ## 🌐 **Projects**
@@ -65,10 +50,4 @@ Feel free to reach out for collaboration or a friendly chat!
 - 📧 **Email**: [xmnavarro@icloud.com](mailto:xmnavarro@icloud.com)  
 - 💼 **LinkedIn**: [Xavier Moreno Navarro](https://www.linkedin.com/in/yourprofile)  
 - 🖥️ **GitHub**: [Xavierete](https://github.com/Xavierete)
-
----
-
-## 🎨 **Quotes**
-> _"Learning never exhausts the mind."_ – Leonardo da Vinci
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+- 🖥️ **X**: [XecutiveM][(https://x.com/XecutiveM)]
